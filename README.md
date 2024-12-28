@@ -4,6 +4,8 @@ A tool for automatically capturing screenshots of company websites.
 
 Currently using ScraperAPI, and [taso's search-engines library](https://github.com/tasos-py/Search-Engines-Scraper) as a search engine, and Playwright to create a screenshot.
 
+![Company Scraper Screenshot](company-scraper.png)
+
 ## Features
 
 - GUI interface for easy use (TKinter)
