@@ -3,3 +3,9 @@ __pycache__/
 *.html
 *.json
 *.egg-info
+*.log
+*.jpg
+*.png
+*.xl*
+_healing_agent_backups/
+_healing_agent_exceptions/
